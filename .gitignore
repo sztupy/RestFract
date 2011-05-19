@@ -1,0 +1,10 @@
+_ReSharper.*
+StyleCop.Cache
+*.cache
+*.resharper
+*.user
+*.suo
+*.swp
+bin/
+obj/
+
